@@ -1,14 +1,23 @@
 {
-  "name": "himalayafrontend",
+  "name": "pembadafront-end",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "axios": "^0.19.2",
+    "base-64": "^0.1.0",
+    "chart.js": "^3.0.0-alpha",
+    "formik": "^2.1.4",
+    "noty": "^3.2.0-beta",
+    "react": "^16.13.0",
+    "react-chartjs-2": "^2.9.0",
+    "react-dom": "^16.13.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.0",
+    "require": "^2.4.20",
+    "yup": "^0.28.1"
   },
   "scripts": {
     "start": "react-scripts start",

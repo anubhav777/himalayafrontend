@@ -1,0 +1,85 @@
+ header, main, footer,.content {
+      padding-left: 300px;
+    }
+tbody img{
+          width:50px;
+          height: 50px;
+        }
+        td{
+          padding: 5px;
+        }
+
+    @media only screen and (max-width : 992px) {
+      header, main, footer,.content {
+        padding-left: 0;
+      }
+    }
+    .row{
+      margin-left: 14em;
+
+    }
+    .box{
+      height: 150px;
+      width: 200px;
+      
+    }
+    .boxer{
+      overflow: hidden;
+      display: inline-block;
+      height: 150px;
+      width: 140px;
+      background-color: #cfd8dc;
+      margin-right: 1px;
+    }
+    .one{
+     display: inline-block;
+     margin-left: 2em;
+    }
+    .down{
+      margin-top: 2em;
+    }
+    .post{
+      padding-left: 3.5em;
+      padding-top: .5em;
+    }
+    table{
+      margin-left: 3em;
+    }
+    .shifft{
+      margin-top: 4em;
+
+    }
+    .beta{
+      padding-bottom: 1em;
+    }
+    .fixed{
+      width: 15%;
+    }
+    .box{
+      border-style: dotted;
+      background-color: #cfd8dc;
+    }
+    .lower{
+      display: inline-block;
+      margin-left: 2em;
+      margin-top: 4em;
+    }  
+    .cann{
+      margin-left: 60px;
+      margin-top: 10px;
+    }
+    .cont{
+      margin-left: 19em;
+    }
+
+    #back{
+      display: none;
+      width: 80%;
+     
+    }
+     #maincont{
+      width:100%;
+      display: block;
+      
+
+    }
